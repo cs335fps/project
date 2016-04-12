@@ -176,7 +176,7 @@ class worldEngine
 							}
 
 							triangle_index += 9;
-							TotalConnectedTriangles += 9;
+							TotalConnectedTriangles += 3;
 							break;
 					}
 				}
